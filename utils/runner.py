@@ -76,12 +76,7 @@ def aoc_solution(day: int, part: str = "A"):
                 elapsed = end_time - start_time
 
                 # 4. Format Output
-                if elapsed < 1e-3:
-                    time_str = f"{elapsed*1e6:.2f}µs"
-                elif elapsed < 1:
-                    time_str = f"{elapsed*1e3:.2f}ms"
-                else:
-                    time_str = f"{elapsed:.4f}s"
+                time_str = f"{elapsed*1e3:.2f}ms"
 
                 print(f"Result: {result} ({time_str})")
                 return result
