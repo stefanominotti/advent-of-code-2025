@@ -49,3 +49,4 @@ Here is a summary of the solutions so far, including their approximate execution
 | 1   | [Day 1](https://adventofcode.com/2025/day/1)   | 1.11ms   | 1.21ms   |
 | 2   | [Day 2](https://adventofcode.com/2025/day/2)   | 323.95ms   | 1459.25ms   |
 | 3   | [Day 3](https://adventofcode.com/2025/day/3)   | 2.51ms   | 7.88ms   |
+| 4   | [Day 4](https://adventofcode.com/2025/day/4)   | 13.59ms   | 42.85ms   |
