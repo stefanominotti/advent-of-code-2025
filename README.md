@@ -53,4 +53,5 @@ Here is a summary of the solutions so far, including their approximate execution
 | 5   | [Day 5](https://adventofcode.com/2025/day/5)   | 18.37ms   | 0.15ms   |
 | 6   | [Day 6](https://adventofcode.com/2025/day/6)   | 0.94ms   | 2.94ms   |
 | 7   | [Day 7](https://adventofcode.com/2025/day/7)   | 1.24ms   | 3.26ms   |
-| 8   | [Day 8](https://adventofcode.com/2025/day/8)   | 440.81   | 770.79ms   |
+| 8   | [Day 8](https://adventofcode.com/2025/day/8)   | 440.81ms   | 770.79ms   |
+| 9   | [Day 9](https://adventofcode.com/2025/day/9)   | 36.21ms   | 16641.19ms   |
